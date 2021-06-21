@@ -1,8 +1,6 @@
 # -Cours-Javascript-Apprendre-Javascript-de-A-Z-La-POO-5-6-
 From Scratch - Développement Web
 
-# [Cours Javascript] Apprendre Javascript de A à Z – La POO (5/6)
-
 ## From Scratch - Développement Web
 
 ( [VIDEO](https://youtu.be/Z3hrfLcr2Ws) )
